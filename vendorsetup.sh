@@ -1,0 +1,2 @@
+add_lunch_combo omni_gteslte-eng
+add_lunch_combo omni_gteslte-userdebug
